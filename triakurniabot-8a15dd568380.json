@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "triakurniabot",
+  "private_key_id": "8a15dd568380113ca3218579a8d0663fbfdfd18b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCIc01V2opSvFgN\n8OHc99q37ZphqWoUQ3H0UUeeKY3Mv7GfIawqukj/pd3TMIVFrvrni4aF+70RbKHN\nun8ZW/nyE8ilqTJMMbSBM73ldHmcfBs+k8OsL5yuW9tDBuLV5RxbFbcsJDPCXqu9\nOmTu1UewavsP000ck/Qp+JP9D4x7POFpzC79tisdLPvlXwPhoCl/h5w5v1yIn/6C\nkhe6dpPh5ytqiZpvTJhu8Ecss70p1xxS6BIo02HwXtIyo/rLV9K0itWnBMoLtkFk\nMpP2rKkkNfDix2mGyJRcR6CPVFk5uei6a/CXo+J5L8FXm9ih3aEinCY4kshLYkFM\n91wq8ourAgMBAAECggEAEmGZ9ulQPfICWKps+sPm0mUvKV3VnPIy/Ssf3zYQ1Ja0\nOlAibcUXhVzWQ5djNK5sPVnl3tG5OAoux9SKP6PMyWgR3QMsc+g0PT13pNvqcAKl\n9umX7++gBzr3kBFy6EaLadfEi606zcHMF9swcp4HoMPgm1KnLiTePPMwGGSKU6V/\nChZmxc1cfLFZd9dcucYE2Dchf02qTjWrRRHNAYACgF0X+/mo9RAu4kzktdHR6PDn\nVSXU3Acl9hY9/q1piheOuoNklawGuOEAmFE8YS+gdSG53I4HYMqkaIzBblCvHva9\nIBXBd/6wiy7DaPGYlVCbUIcluhdP2A/udzW5l6A+bQKBgQC9bEnCn7mLJ1GE3AvJ\nK28JVuezYWN/8c271FBmdgFQgaIS+G56XYNnhxl7tQoujkhsoFSNpLcQuT/+gx8b\nQQm5znCMm1bB8L4oQFOP2BSUy8m/Rb/uJ4iSLXLhzikrbrQKMljZGuvoRB4UmmzR\n3vp0Ys5Bwkci1nlpw65ULsXPdQKBgQC4aLLWfYCu69fzoYkIBWAnw3vcMJtCrTyb\niPqap9DZpGVFpmmQaXCT5t/E4QHu6eI3/xg1K3sm+XAaZaqXjhnSJORkPjB6TFvo\nGNBPFDo5/ZHYur1lg3d5Vyz0XjLWABdsou3jFRQsFfmxCf8fYd9X6/8uEGYfWWXc\nl5b7GaeqnwKBgCV1ZKC4NVjvTY+YdDwz+qE+LlOqzqJejvC167BXZasl94cI2dAY\n7gNrE/8CriDGwku46P+Zsxn7iEwsYdph4ip8SIWFsoJnuTL8hYnMkUVbh2nrwSi3\naKp/klhVDI8qNTBPBILqb/xefBRW9W4LSjv5zg/y+15IS3o+2BqNpVCBAoGAbiNq\nHJ0cjFyjwAkMdNPxGA6zHVGSiYI6HpLzSgdMv5BmQ/EeP3gaGtvbbhUNOIpL6DHd\nXXQ4u5BjGgD6oEXoug/6sLxL699LTRX05CYqmJQP1afCkqywYLJmURUpu5KWavXs\nqqHeSG5fkRNtYmrsH/D9mZ+Fvtd/9P482H/8GfUCgYEAqujmU1Iblm5UQoxlhz8F\nkWd0tSR1pnq8Dipu2xC58vNY4QEvyY5s/LD84mbJOBthOM660hAKEnRvbwbu+LzW\nLPwCgFNO2Jtw/rLuTUqIG8Mj86gzSUYh3C+Q+NaISYdZwdPKHpZRl59aXie+nJzB\nnd1K+sRqhGLjo5LK4GyZ+es=\n-----END PRIVATE KEY-----\n",
+  "client_email": "triakurniasheet@triakurniabot.iam.gserviceaccount.com",
+  "client_id": "114426531006254008087",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/triakurniasheet%40triakurniabot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
